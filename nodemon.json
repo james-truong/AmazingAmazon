@@ -3,6 +3,6 @@
     "MONGO_USER": "james-truong",
     "MONGO_PASSWORD": "2Y4RE8rpf4e8fzNH",
     "MONGO_DEFAULT_DATABASE": "shop",
-    "STRIPE_KEY": "sk_live_wqM1xlJSRKYzcajBLL7axKxq00aau9FBHJ"
+    "STRIPE_KEY": "sk_live_fakekey"
   }
 }
